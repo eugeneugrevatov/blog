@@ -1,0 +1,2 @@
+# blog
+Rails hello world
